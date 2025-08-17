@@ -30,7 +30,7 @@ This project gives your Chrome new tab a refreshing look with simplicity and per
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
-```bash
+bash```
 
 ### 2. Open in Browser
 2.1 Go to the Chrome-Homepage folder
