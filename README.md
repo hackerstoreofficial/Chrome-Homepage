@@ -31,7 +31,7 @@ This project gives your Chrome new tab a refreshing look with simplicity and per
 ```bash
 git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
 
-### 2. Open in Browser
+**### 2. Open in Browser**
 2.1 Go to the Chrome-Homepage folder
 2.2 Open index.html in your preferred browser
 
