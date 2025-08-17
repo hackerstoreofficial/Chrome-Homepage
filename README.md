@@ -13,7 +13,7 @@ This project gives your Chrome new tab a refreshing look with simplicity and per
 
 ## 📸 Preview
 
-![Chrome Homepage Screenshot](Chrome-Homepage/.assets/1.png)
+![Chrome Homepage Screenshot](https://github.com/hackerstoreofficial/Chrome-Homepage/blob/master/Chrome-Homepage/.assets/1.png?raw=true)
 
 ---
 
@@ -47,8 +47,9 @@ git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
 ---
 
 ## 🛠️ Tech Stack
-**HTML5** <br>
-**CSS3**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
@@ -77,7 +78,6 @@ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 ---
 
 ## 📄 License
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 This project is licensed under the **MIT License** — free to use and modify.
 
 ---
