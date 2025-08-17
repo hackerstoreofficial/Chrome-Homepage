@@ -2,7 +2,7 @@
 
 [![Made with HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)](#)
 [![Made with CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)](#)
-![Made withJavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)(#)
+![Made withJavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/hackerstoreofficial/Chrome-Homepage?style=social)](https://github.com/hackerstoreofficial/Chrome-Homepage/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/hackerstoreofficial/Chrome-Homepage?style=social)](https://github.com/hackerstoreofficial/Chrome-Homepage/network/members)
