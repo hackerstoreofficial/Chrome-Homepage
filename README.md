@@ -48,8 +48,8 @@ git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
 
 ---
 
@@ -84,3 +84,6 @@ This project is licensed under the **MIT License** — free to use and modify.
 
 ## ✨ Author
 **Devesh Kumar**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hackerstoreofficial/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/devesh_bhumihar_/)
