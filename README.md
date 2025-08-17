@@ -14,7 +14,7 @@ This project gives your Chrome new tab a refreshing look with simplicity and per
 
 ## 📸 Preview
 
-![Chrome Homepage Screenshot](https://github.com/hackerstoreofficial/Chrome-Homepage/blob/master/Chrome-Homepage/.assets/1.png?raw=true)
+![Chrome Homepage Screenshot](https://github.com/hackerstoreofficial/Chrome-Homepage/blob/master/.assets/1.png?raw=true)
 
 ---
 
@@ -59,11 +59,11 @@ git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
 
 ```bash
 Chrome-Homepage/
+│── LICENSE.md
+│── README.md
 │── index.html
 │── style.css
 │── script.js
-│── LICENSE.md
-│── README.md
 └── .assets/
     └── 1.png   # Screenshot
 ```
