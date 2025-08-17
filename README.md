@@ -50,6 +50,7 @@ git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
 
 ![HTML5](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
