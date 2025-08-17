@@ -39,7 +39,7 @@ git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
 
 ### 3) Set as Chrome Homepage (Optional)
 
-3.1 Open Chrome Settings → On startup
+3.1 Open Chrome Settings → On startup<br>
 3.2 Select Open a specific page or set of pages
 3.3 Choose the local path of your index.html file
 3.4 Restart Chrome 🚀
