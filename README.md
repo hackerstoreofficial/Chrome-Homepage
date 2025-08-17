@@ -32,29 +32,25 @@ This project gives your Chrome new tab a refreshing look with simplicity and per
 git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
 ``` 
 
-2) Open in Browser
-Go to the Chrome-Homepage folder
+### 2) Open in Browser
 
-Open index.html in your preferred browser
+2.1 Go to the Chrome-Homepage folder
+2.2 Open index.html in your preferred browser
 
-3) Set as Chrome Homepage (Optional)
-Open Chrome Settings → On startup
+### 3) Set as Chrome Homepage (Optional)
 
-Select Open a specific page or set of pages
+3.1 Open Chrome Settings → On startup
+3.2 Select Open a specific page or set of pages
+3.3 Choose the local path of your index.html file
+3.4 Restart Chrome 🚀
 
-Choose the local path of your index.html file
+---
 
-Restart Chrome 🚀
-Select Open a specific page or set of pages
+## 🛠️ Tech Stack
+**HTML5**
+**CSS3**
 
-Choose the local path of your index.html file
-
-Restart Chrome 🚀
-
-🛠️ Tech Stack
-HTML5
-
-CSS3
+---
 
 📂 Project Structure
 bash
