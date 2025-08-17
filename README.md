@@ -7,7 +7,7 @@ This project gives your Chrome new tab a refreshing look with simplicity and per
 
 ## 📸 Preview
 
-![Chrome Homepage Screenshot](./.assets/1.png)
+![Chrome Homepage Screenshot](https://github.com/hackerstoreofficial/Chrome-Homepage/blob/master/Chrome-Homepage/.assets/1.png?raw=true)
 
 ---
 
