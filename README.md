@@ -1,5 +1,11 @@
 # 🌐 Chrome Homepage
 
+[![Made with HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)](#)
+[![Made with CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/hackerstoreofficial/Chrome-Homepage?style=social)](https://github.com/hackerstoreofficial/Chrome-Homepage/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/hackerstoreofficial/Chrome-Homepage?style=social)](https://github.com/hackerstoreofficial/Chrome-Homepage/network/members)
+
 A customized **Chrome Homepage** built with HTML & CSS for a clean, minimal, and modern browsing experience.  
 This project gives your Chrome new tab a refreshing look with simplicity and personalization.
 
@@ -24,4 +30,3 @@ This project gives your Chrome new tab a refreshing look with simplicity and per
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
-
