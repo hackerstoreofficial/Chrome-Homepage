@@ -1,2 +1,2 @@
-# Chrome-Homepage
-To give a stylish design to your Chrome
+### 🌐 Chrome Homepage
+Custom CSS for a clean Chrome start page.
