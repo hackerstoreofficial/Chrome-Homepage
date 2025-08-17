@@ -34,45 +34,52 @@ git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
 
 ### 2) Open in Browser
 
-2.1 Go to the Chrome-Homepage folder
+2.1 Go to the Chrome-Homepage folder<br>
 2.2 Open index.html in your preferred browser
 
 ### 3) Set as Chrome Homepage (Optional)
 
-3.1 Open Chrome Settings → On startup<br>
-3.2 Select Open a specific page or set of pages
-3.3 Choose the local path of your index.html file
+3.1 Open Chrome Settings → On startup  <br>
+3.2 Select Open a specific page or set of pages <br>
+3.3 Choose the local path of your index.html file <br>
 3.4 Restart Chrome 🚀
 
 ---
 
 ## 🛠️ Tech Stack
-**HTML5**
+**HTML5** <br>
 **CSS3**
 
 ---
 
-📂 Project Structure
-bash
-Copy
-Edit
+## 📂 Project Structure
+
+```bash
 Chrome-Homepage/
 │── index.html
 │── style.css
 └── .assets/
     └── 1.png   # Screenshot
-📌 Future Improvements
-🌗 Add Dark/Light mode toggle
+```
 
-⏰ Option to show live time & date
+---
 
+## 📌 Future Improvements
+🌗 Add Dark/Light mode toggle <br>
+⏰ Option to show live time & date<br>
 🔗 Quick links to favorite websites
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
-📄 License
-This project is licensed under the MIT License — free to use and modify.
+---
 
-✨ Author
-Devesh Kumar
+## 📄 License
+This project is licensed under the **MIT License** — free to use and modify.
+
+---
+
+## ✨ Author
+**Devesh Kumar**
