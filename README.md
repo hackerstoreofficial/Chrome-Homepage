@@ -30,12 +30,15 @@ This project gives your Chrome new tab a refreshing look with simplicity and per
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
+
 2. Open in Browser
+
 Go to the Chrome-Homepage folder
 
 Open index.html in your preferred browser
 
 3. Set as Chrome Homepage (Optional)
+
 Open Chrome Settings → On startup
 
 Select Open a specific page or set of pages
