@@ -88,7 +88,7 @@ This project is licensed under the **MIT License** — free to use and modify.
 ---
 
 ## ✨ Author
-**Devesh Kumar**
+**Hacker Store Official**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hackerstoreofficial/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/devesh_bhumihar_/)
