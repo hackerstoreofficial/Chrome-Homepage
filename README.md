@@ -13,7 +13,7 @@ This project gives your Chrome new tab a refreshing look with simplicity and per
 
 ## 📸 Preview
 
-![Chrome Homepage Screenshot](https://github.com/hackerstoreofficial/Chrome-Homepage/blob/master/Chrome-Homepage/.assets/1.png?raw=true)
+![Chrome Homepage Screenshot](Chrome-Homepage/.assets/1.png)
 
 ---
 
@@ -27,18 +27,15 @@ This project gives your Chrome new tab a refreshing look with simplicity and per
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1) Clone the repository
 ```bash
 git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
-
-2. Open in Browser
-
+2) Open in Browser
 Go to the Chrome-Homepage folder
 
 Open index.html in your preferred browser
 
-3. Set as Chrome Homepage (Optional)
-
+3) Set as Chrome Homepage (Optional)
 Open Chrome Settings → On startup
 
 Select Open a specific page or set of pages
@@ -46,3 +43,33 @@ Select Open a specific page or set of pages
 Choose the local path of your index.html file
 
 Restart Chrome 🚀
+
+🛠️ Tech Stack
+HTML5
+
+CSS3
+
+📂 Project Structure
+bash
+Copy
+Edit
+Chrome-Homepage/
+│── index.html
+│── style.css
+└── .assets/
+    └── 1.png   # Screenshot
+📌 Future Improvements
+🌗 Add Dark/Light mode toggle
+
+⏰ Option to show live time & date
+
+🔗 Quick links to favorite websites
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork this repo and submit pull requests.
+
+📄 License
+This project is licensed under the MIT License — free to use and modify.
+
+✨ Author
+Devesh Kumar
