@@ -61,6 +61,9 @@ git clone https://github.com/hackerstoreofficial/Chrome-Homepage.git
 Chrome-Homepage/
 │── index.html
 │── style.css
+│── script.js
+│── LICENSE.md
+│── README.md
 └── .assets/
     └── 1.png   # Screenshot
 ```
